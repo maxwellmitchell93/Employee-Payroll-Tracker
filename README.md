@@ -24,5 +24,5 @@ N/A
 N/A
 
 ## Credits
-ASU Fullstac Xpert Learning Assistant
+ASU Fullstack Xpert Learning Assistant
 
